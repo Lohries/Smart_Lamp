@@ -1,6 +1,4 @@
 # Smart_Lamp
-  This project was use in the first semester o the computer engeneering. The content is the source code of th Arduino, the documentation with more details and the direct link to Tinkercad, that shows the simulation of it.
-  A breve description to what I mean by the term "smart lamps" or "Lampada Inteligentes" (in Portuguese). The name can be explained by itself, it's a lamp that according to the light of the exterior area, in contact with a sensor, can autoregulta it's luminosity. Example: If you have a place with a lot of luminosity, the lamp will emmit a lower light, this is also true in an oposite direction, with less light, more luminosity by the lamp.
-  This can be expand in a big scale and in different areas, like public enviorments, industries and home, obviously with respect changes in the format, size, power and some components.
-  
+  This project was used in the first semester of computer engineering. It includes the source code for Arduino, detailed documentation, and a direct link to Tinkercad, showcasing the simulation.
+  A brief description of "smart lamps" or "Lâmpadas Inteligentes" (in Portuguese): The name is self-explanatory – these are lamps that automatically regulate their luminosity based on the ambient light detected by a sensor. For instance, in well-lit areas, the lamp emits lower light, and in darker environments, it increases its luminosity. This concept can be scaled and applied in various settings such as public spaces, industries, and homes. Of course, adjustments can be made in terms of format, size, power, and components to suit different requirements.
 
